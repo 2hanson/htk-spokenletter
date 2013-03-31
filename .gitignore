@@ -1,0 +1,7 @@
+.DS_Store
+exp/
+out/
+all.sh
+data/lpc/
+data/mfcc/
+data/plp/
